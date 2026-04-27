@@ -17,6 +17,7 @@ while True:
         print("computer choice ",n)
         print("you win !!")    
     elif human == "paper" and n == "scissor":
+        print("computer choice",n)
         print("computer win !!") 
     elif human == "scissor" and n == "stone":
         print("computer choice ",n)
